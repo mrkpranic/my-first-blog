@@ -8,3 +8,4 @@ urlpatterns = [
     url(r'^json_all_posts$', views.json_all_posts, name='json_all_posts'),
 	url(r'^spa_post_list$', views.spa_post_list, name='spa_post_list'),
 ]
+
